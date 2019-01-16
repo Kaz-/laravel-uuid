@@ -3,7 +3,7 @@
     "description": "A wrapper for webpatser/laravel-uuid with additional integration",
     "type": "library",
     "require": {
-        "webpatser/laravel-uuid": "2.*"
+        "webpatser/laravel-uuid": ">=2.*"
     },
     "license": "MIT",
     "authors": [
